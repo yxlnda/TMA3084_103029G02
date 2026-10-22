@@ -1,1 +1,1 @@
-Lab Exercise 3 - NailMuse Menu App
+GitHub Actions CI Test
